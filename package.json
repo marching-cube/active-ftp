@@ -1,0 +1,15 @@
+{
+  "name": "active-ftp",
+  "version": "1.0.0",
+  "description": "basic implementation of an active mode FTP client",
+  "main": "ftpclient.js",
+  "scripts": {
+    "test": "tests.js"
+  },
+  "keywords": [
+    "FTP",
+    "active"
+  ],
+  "author": "marching-cube",
+  "license": "MIT"
+}
